@@ -1,6 +1,8 @@
 # dat.gui-midi-control
 
-`STATUS: Experimental`
+`STATUS: Abandoned`
+
+**⚠️ - Replaced by [@mollerse/midi-control](https://github.com/mollerse/midi-control)**
 
 dat.gui with added functionality for controlling params with a midi device.
 
